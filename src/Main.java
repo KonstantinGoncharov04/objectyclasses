@@ -16,4 +16,4 @@ void main() {
     nineteenEightyFour.setPublicationYear(1949);
     System.out.println("Обновленный год публикации книги «" + nineteenEightyFour.getTitle() + "»: " + nineteenEightyFour.getPublicationYear());
 }
- 
+
